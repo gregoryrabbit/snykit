@@ -1,4 +1,4 @@
-ARG BASE=ruby:2.7.0
+ARG BASE=ruby:2.7
 
 FROM ${BASE}
 
