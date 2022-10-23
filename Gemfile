@@ -9,5 +9,5 @@ gem "sinatra", "2.0.1"
 group :test do
   gem 'rake'
   gem 'rspec'
-  gem 'rack-test'
+  gem 'rack-test', '>= 2.0.0'
 end
